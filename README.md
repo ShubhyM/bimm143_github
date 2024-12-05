@@ -11,7 +11,6 @@ Class 8 [Unsupervised learning mini-project](https://github.com/ShubhyM/bimm143_
 
 Class 9 [Structural Bioinformatics (pt1)](https://github.com/ShubhyM/bimm143_github/blob/main/Class%2009/Class-09-.pdf)
 
-class 10 []()
+class 10 [lab 10]()
 
-class 11 []()
 
