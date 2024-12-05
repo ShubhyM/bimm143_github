@@ -3,7 +3,6 @@ Classwork for BIMM143 F24 at ucsd
 
 
 
-class 5 [Data Visualization with ggplot]( )
 
 Class 7 [Introduction to machine learning for Bioinformatics 1](https://github.com/ShubhyM/bimm143_github/blob/main/Class%2007/Class%2007.md)
 
